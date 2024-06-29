@@ -12,7 +12,7 @@ I the author of this script is not responsible for any misuse or damage caused b
 - Ensure you have proper authorization before using this tool on a network.
 - Respect privacy laws and regulations.
 - Use the tool for educational purposes only and avoid intercepting sensitive information without explicit consent.
-- Certainly! Below is a detailed description for the packet sniffer code provided earlier, formatted in a README.md file:
+
 
 ## Features
 
